@@ -1,0 +1,25 @@
+{
+  "name": "node_readme_generator",
+  "version": "1.0.0",
+  "description": "README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perry85dallas/node_readME_generator.git"
+  },
+  "keywords": [
+    "README"
+  ],
+  "author": "Perry Northcutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perry85dallas/node_readME_generator/issues"
+  },
+  "homepage": "https://github.com/perry85dallas/node_readME_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
