@@ -35,7 +35,7 @@ function promptUser(){
             type: 'list',
             name:'license',
             message:'Please select the license you would like to use.',
-            choices: ['MIT License','Apache License','GPL General Public License']
+            choices: ['MIT License', 'Apache License', 'GPL General Public License']
         },
         {
             type: 'input',

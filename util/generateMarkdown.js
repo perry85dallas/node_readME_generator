@@ -5,19 +5,17 @@ const generateReadme = (answers) =>
 ## ${answers.title}
 
 
-
-
 ## Description
 ${answers.description}
 
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributors](#contributors)
-- [Testing](#testing)
-- [Questions](#questions)
+- [Description] (#description)
+- [Installation] (#installation)
+- [Usage] (#usage)
+- [License] (#license)
+- [Contributors] (#contributors)
+- [Testing] (#testing)
+- [Questions] (#questions)
 
 
 ## Installation
@@ -29,7 +27,8 @@ ${answers.usage}
 
 
 ## License
-![badge](https://img.shields.io/badge/license-${answers.license}-red)
+${answers.license}
+![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
 
 
 ## Contributors
