@@ -20,6 +20,8 @@ LINKS
 
 https://watch.screencastify.com/v/bpbJPePNoFeNCJjsYBuY
 
+https://github.com/perry85dallas/node_readME_generator
+
 
 RESOURCES
 
