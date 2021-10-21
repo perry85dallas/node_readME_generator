@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/perry85dallas/node_readME_generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
-  }
+    "inquirer": "^8.2.0",
+    "y": "^0.3.2"
+  },
+  "devDependencies": {}
 }
